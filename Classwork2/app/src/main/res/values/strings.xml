@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Classwork</string>
+    <string name="init_count">%1$d</string>
+</resources>
